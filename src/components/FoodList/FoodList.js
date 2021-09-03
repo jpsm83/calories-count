@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import 'bulma/css/bulma.css';
 import foodList from '../../foods.json';
 import FoodBox from '../FoodBox/FoodBox';
 import FoodForm from '../FoodForm/FoodForm';

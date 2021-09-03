@@ -1,6 +1,7 @@
 import React from 'react';
-import './App.css';
 import FoodList from './components/FoodList/FoodList';
+import 'bulma/css/bulma.css';
+import './App.css';
 
 export default function App() {
   return (
